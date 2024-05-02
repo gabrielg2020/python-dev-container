@@ -38,5 +38,3 @@ docker run -it --rm -v{exact_app_directory_path}:/code/app {image_name}
 > 6. Pick `From 'Dockerfile'`.
 > 7. Select any additional features.
 > 8 Enjoy!
-
-
